@@ -8,8 +8,10 @@
           <include name="close_window"/>
           <include name="v_booking_cred"/>
           <include name="browserSetUp"/>
+          <include name="phLogin"/>
           <include name="afterMethod"/>
           <include name="extentReportSetUp"/>
+          <include name="searchFlights"/>
         </methods>
       </class> <!-- com.Test_Cases.Test_Search_Flights -->
     </classes>
